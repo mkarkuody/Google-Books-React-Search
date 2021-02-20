@@ -16,7 +16,7 @@
 2. React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. 
 3. Users can save books to review or purchase later.
 
-# To create a Note Taker using this app;
+# To create a Google-Books-React-Search using this app;
 Clone repository.
 In the directory with run npm install, use npm start in your current psth terminal,as soon as you see the Message,(App listening on PORT: 3000) you can work on your localhost and type on the save and retrieve the data.
 
