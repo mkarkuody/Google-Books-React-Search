@@ -85,7 +85,7 @@ class Search extends Component {
                             handleSave = {()=> this.handleSave({
                                 title: book.volumeInfo.title,
                                 authors : book.volumeInfo.authors,
-                                // image : book.volumeInfo.imageLinks.thumbnail,
+                                image : book.volumeInfo.imageLinks.thumbnail,
                                 
                                 description : book.volumeInfo.description,
                                 link : book.volumeInfo.infoLink
